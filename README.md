@@ -24,16 +24,8 @@ Software Developer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
 
 
-[![](https://visitcount.itsvg.in/api?id=TharunRajeev&label=GithubProfile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 
