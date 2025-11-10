@@ -16,9 +16,10 @@
     <a href="mailto:rajkundur.rk@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
     </a>
-    <a href="https://portfolio-eosin-mu-63.vercel.app/">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-    </a>
+   <a href="https://portfolio-eosin-mu-63.vercel.app/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
   </p>
 </p>
 
