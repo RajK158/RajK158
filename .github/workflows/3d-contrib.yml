@@ -2,7 +2,8 @@ name: 3D Profile Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
+    # Run once a day (choose any UTC time you like)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,21 +12,22 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v5
 
-      - name: Generate 3D contributions
-        uses: yoshi389111/github-profile-3d-contrib@main
-        with:
-          username: Rajk158
-          theme: "night_rainbow"
+      # Use the latest release of the action and pass inputs via env
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}  # or: Rajk158
 
-      - name: Commit generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Update 3D contributions"
-          add: "profile-3d-contrib/*"
-          default_author: github_actions
+      # Commit the generated SVGs
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
