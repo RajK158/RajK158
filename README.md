@@ -75,7 +75,7 @@
 ---
 
 ### 🗻 3D Contribution Landscape
-After the workflow runs, the generated SVG will appear here. If the filename differs, update the path.
+
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
@@ -89,7 +89,7 @@ After the workflow runs, the generated SVG will appear here. If the filename dif
   </a>
 </p>
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
