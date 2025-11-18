@@ -26,7 +26,7 @@
 
 ---
 
-### 💡 About me
+### 💡About me
 - CSULB MSCS student focused on building reliable software and exploring applied AI
 - Interested in backend systems, data engineering, and ML infrastructure
 - Always learning, shipping, and collaborating
