@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I’m <b>Raj Kundur</b> 👋</h1>
   <p align="center">
     Master’s student in Computer Science at <b>California State University, Long Beach</b><br/>
-    Software Developer • Data and AI Enthusiast
+    Software Developer/Engineer • Data and AI Enthusiast
   </p>
 
   <!-- Socials -->
