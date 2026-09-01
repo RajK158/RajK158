@@ -112,32 +112,52 @@ Master's student in Computer Science at **California State University, Long Beac
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajK158&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Raj's GitHub stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RajK158&theme=dark&hide_border=false" alt="Raj's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajK158&theme=dark&hide_border=false&layout=compact&langs_count=10" alt="Raj's top languages" />
-</p>
+## 🚀 Featured Projects
+
+### 🧠 Vitalex
+AI-powered healthcare policy intelligence platform for summarization, comparison, impact analysis, and rule generation.
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • Supabase • Google Gemini
+
+[View Repository](https://github.com/RajK158/VitaLex) • [Live Demo](https://vitalex.vercel.app)
 
 ---
 
-## 🏆 GitHub Trophies
+### 💼 Impulso
+Chrome extension and FastAPI backend for job application assistance, including profile caching, job scraping, autofill, and AI-powered resume tailoring.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajK158&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
-</p>
+**Tech:** JavaScript • Python • FastAPI • Chrome Extensions • Gemini API • Docker
+
+[View Repository](https://github.com/RajK158/BrandFit-Resume)
 
 ---
 
-## 🔝 Top Contributed Repositories
+### 🩺 Pharma Copilot
+AI-powered diagnostic assistant that analyzes medical reports using specialist agents and retrieves similar cases with semantic search.
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RajK158&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
-</p>
+**Tech:** React • FastAPI • SQLAlchemy • FAISS • Hugging Face • Tailwind CSS
 
+[View Repository](https://github.com/RajK158/pharma-copilot-ai)
+
+---
+
+### 🧾 Multi-Language Invoice Extractor
+AI-powered system for extracting structured data from multilingual invoices using OCR, NLP, validation, and full-text search.
+
+**Tech:** Python • FastAPI • Streamlit • spaCy • Tesseract OCR • EasyOCR • SQLite
+
+[View Repository](https://github.com/RajK158/Invoice-Extractor)
+
+---
+
+### 🍽️ Intelligent Bistro
+AI-powered restaurant ordering app with a conversational assistant that converts natural language into structured cart actions.
+
+**Tech:** React Native • Expo • TypeScript • Node.js • Express • OpenAI API
+
+[View Repository](https://github.com/RajK158/Intelligent-Bistro)
 ---
 
 ## 🗻 3D Contribution Landscape
