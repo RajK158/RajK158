@@ -158,6 +158,8 @@ AI-powered restaurant ordering app with a conversational assistant that converts
 **Tech:** React Native • Expo • TypeScript • Node.js • Express • OpenAI API
 
 [View Repository](https://github.com/RajK158/Intelligent-Bistro)
+Walkthrough: https://www.loom.com/share/748745cb18b141979c42612422ca5155
+
 ---
 
 ## 🗻 3D Contribution Landscape
