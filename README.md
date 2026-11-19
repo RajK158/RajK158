@@ -6,6 +6,8 @@
 
 Master's student in Computer Science at **California State University, Long Beach**
 
+Bringing the change soon : )
+
 <p>
   <a href="https://instagram.com/_rk.58_">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
