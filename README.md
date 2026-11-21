@@ -118,6 +118,16 @@ Bringing the change soon : )
 
 ## 🚀 Featured Projects
 
+### ⚡ Ruptiq
+
+A Go-based performance testing platform for distributed systems. Ruptiq runs k6 workloads while sampling Prometheus metrics, then analyzes saved runs offline to surface evidence-backed bottleneck hypotheses. Its guided workflow compares a baseline with a candidate run after you make a change, with evidence pointers and SHA-256 hashes for traceability.
+
+**Tech:** Go • k6 • Prometheus • Docker Compose • GitHub Actions
+
+[View Repository](https://github.com/RajK158/ruptiq) • [Guided Demo](https://github.com/RajK158/ruptiq/blob/main/docs/demo.md)
+
+---
+
 ### 🧠 Vitalex
 AI-powered healthcare policy intelligence platform for summarization, comparison, impact analysis, and rule generation.
 
