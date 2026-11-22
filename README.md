@@ -33,7 +33,7 @@ Bringing the change soon : )
 - 💻 Building full-stack applications, backend systems, and AI-powered products
 - 🤖 Exploring **AI agents, LLM applications, RAG, NLP, and intelligent automation**
 - ⚙️ Interested in **software engineering, distributed systems, AI/ML, and cloud technologies**
-- 🚀 Always learning, building, and shipping real-world projects
+- 🚀 Always learning, building, and shipping real world projects
 - 🌐 Explore my work: [Portfolio](https://portfolio-eosin-mu-63.vercel.app/)
 ---
 
